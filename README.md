@@ -1,12 +1,10 @@
 ﻿# Pothole-Detection on road
 Predict the road surface damage 
 
-Pothole road
+This project aims to detect road surface damage, particularly focusing on identifying potholes.
 
-Plain road
+Input data: image.files
 
-Craks road
-
-Patches road
+Pothole road/ Plain road/ Craks road/ Patches road
 
 The result will be shows in CSV.file
